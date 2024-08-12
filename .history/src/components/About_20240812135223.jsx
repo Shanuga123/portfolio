@@ -1,6 +1,5 @@
 import React from "react";
 import Tilt from "react-tilt";
-import Tilt from "react-tilt/dist/tilt";
 
 import { motion } from "framer-motion";
 
