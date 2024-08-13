@@ -168,18 +168,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Working with Shanuga has been an absolute pleasure and is highly recommended by far! ",
-    name: "Thirukumaran Thilaganathan",
-    designation: "CEO",
-    company: "SatFocus Ltd",
-    
+      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+    name: "Sara Lee",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "Shanuga is awesome. She has exceeded my expectations and delivered great work. I would recommend to use her service.",
-    name: "janenalayah",
-    designation: "CEO",
-    company: "JJSmart Movers",
+      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+    name: "Chris Brown",
+    designation: "COO",
+    company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
@@ -212,7 +212,7 @@ const projects = [
       },
     ],
     image: recipe,
-    source_code_link: "https://github.com/Shanuga123/codealpha_tasks.git",
+    source_code_link: "https://github.com/",
   },
   {
     name: "Ajax Alarm",
@@ -226,7 +226,7 @@ const projects = [
      
     ],
     image: ajax,
-    source_code_link: "https://www.ajaxalarmuk.com/",
+    source_code_link: "https://github.com/",
   },
   {
     name: "Exploring Lanka",
@@ -255,7 +255,7 @@ const projects = [
       },
     ],
     image: lanka,
-    source_code_link: "https://www.exploringlanka.com/",
+    source_code_link: "https://github.com/",
   },
   {
     name: "Vegify",
@@ -276,7 +276,7 @@ const projects = [
       },
     ],
     image: vegify,
-    source_code_link: "https://github.com/Shanuga123/CodeClauseInternship_Productlandingpage.git",
+    source_code_link: "https://github.com/",
   },
   {
     name: "ExperimentVox",
@@ -290,92 +290,108 @@ const projects = [
       },
     ],
     image: ex,
-    source_code_link: "https://www.experimentvox.com/",
+    source_code_link: "https://github.com/",
   },
   {
-    name: "JJSmart Movers",
+    name: "Smart",
     description:
-      "JJSmartMovers is a professional moving service website showcasing top-notch relocation services across Australia. It offers efficient and reliable moving solutions.",
+      "JJSmartMovers is a reliable moving service in Australia, offering efficient and stress-free relocation solutions.",
     tags: [
       {
-        name: "wordpress",
-        color: "blue-text-gradient",
-      },
-     
-    ],
-    image: smart,
-    source_code_link: "https://jjsmartmovers.com/",
-  },
-  {
-    name: " University Management System",
-    description:
-      "The university management system centralizes student, course, and faculty data for improved efficiency and access.",
-    tags: [
-      {
-        name: "reactjs",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "supabase",
         color: "green-text-gradient",
       },
       {
-        name: "nodejs",
+        name: "css",
         color: "pink-text-gradient",
       },
+    ],
+    image: smart,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: " Uni",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
       {
-        name: "expressjs",
+        name: "nextjs",
         color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
       },
     ],
     image: university,
-    source_code_link: "https://github.com/Shanuga123/UniversityManagement_System.git",
+    source_code_link: "https://github.com/",
   }, {
-    name: "TravelMate",
+    name: "travel",
     description:
-      "This travel web app provides real-time navigation and location-based services, offering users an intuitive map experience with interactive features similar to Google Maps.",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "reactjs",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "api",
+        name: "supabase",
         color: "green-text-gradient",
       },
-      
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
     ],
     image: travel,
-    source_code_link: "https://travelblissings.netlify.app/",
+    source_code_link: "https://github.com/",
   },
   {
-    name: "Satfocus Security",
+    name: "Sat",
     description:
-      "Stafocus is a UK-based security product promotion website that highlights cutting-edge solutions for safeguarding both residential and commercial properties.",
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "wordpress",
-        color: "blue-text-gradient",
-      },
-      
-    ],
-    image: satfocus,
-    source_code_link: "https://security.satfocus.co.uk",
-  },
-  {
-    name: "Mobile App",
-    description:
-      "Marudhi Online Shopping is a mobile app that offers a convenient e-commerce experience with an easy-to-use interface, secure payments, and personalized product recommendations.",
-    tags: [
-      {
-        name: "flutter",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
-        name: "firebase",
+        name: "supabase",
         color: "green-text-gradient",
       },
-      
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: satfocus,
+    source_code_link: "https://github.com/",
+  },
+  {
+    name: "Mob",
+    description:
+      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "supabase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
     ],
     image: mob,
     source_code_link: "https://github.com/",

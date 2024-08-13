@@ -168,18 +168,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Working with Shanuga has been an absolute pleasure and is highly recommended by far! ",
-    name: "Thirukumaran Thilaganathan",
-    designation: "CEO",
-    company: "SatFocus Ltd",
-    
+      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+    name: "Sara Lee",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "Shanuga is awesome. She has exceeded my expectations and delivered great work. I would recommend to use her service.",
-    name: "janenalayah",
-    designation: "CEO",
-    company: "JJSmart Movers",
+      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+    name: "Chris Brown",
+    designation: "COO",
+    company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
@@ -346,7 +346,7 @@ const projects = [
       
     ],
     image: travel,
-    source_code_link: "https://travelblissings.netlify.app/",
+    source_code_link: "https://github.com/",
   },
   {
     name: "Satfocus Security",

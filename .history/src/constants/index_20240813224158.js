@@ -172,14 +172,14 @@ const testimonials = [
     name: "Thirukumaran Thilaganathan",
     designation: "CEO",
     company: "SatFocus Ltd",
-    
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "Shanuga is awesome. She has exceeded my expectations and delivered great work. I would recommend to use her service.",
-    name: "janenalayah",
-    designation: "CEO",
-    company: "JJSmart Movers",
+      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+    name: "Chris Brown",
+    designation: "COO",
+    company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {

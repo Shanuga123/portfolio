@@ -168,18 +168,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Working with Shanuga has been an absolute pleasure and is highly recommended by far! ",
-    name: "Thirukumaran Thilaganathan",
-    designation: "CEO",
-    company: "SatFocus Ltd",
-    
+      "Working with Shanuga has been an absolute pleasure and is highly recommended by far! She understood the concept of my business, followed instructions and made great suggestions! I browsed through several gigs that were not willing to work with the format I was looking for but Shanuga understood the concept. She is highly knowledgeable and dedicated to her work. This is not my first time working with Fiverr when it comes to websites and I can say that Shanuga is by far the best choice. You will not be disappointed! Congrats Shanuga for a job well done!",
+    name: "Thirukumaram \\",
+    designation: "CFO",
+    company: "Acme Co",
+    image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
     testimonial:
-      "Shanuga is awesome. She has exceeded my expectations and delivered great work. I would recommend to use her service.",
-    name: "janenalayah",
-    designation: "CEO",
-    company: "JJSmart Movers",
+      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+    name: "Chris Brown",
+    designation: "COO",
+    company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {

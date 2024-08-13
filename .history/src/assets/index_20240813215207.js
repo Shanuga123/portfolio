@@ -2,7 +2,6 @@ import backend from "./backend.png";
 import close from "./close.svg";
 import creator from "./creator.png";
 import github from "./github.png";
-import link from "./link.png";
 
 import logo from "./logo.svg";
 import menu from "./menu.svg";
@@ -47,6 +46,6 @@ export {
   nodejs,
   reactjs, recipe, redux,
   tailwind, threejs, typescript, vegify, web, wordpress,
-  ex,lanka, satfocus, smart, university, travel, mob, link
+  ex,lanka, satfocus, smart, university, travel, mob
 };
 

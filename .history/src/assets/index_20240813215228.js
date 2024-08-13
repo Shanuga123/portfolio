@@ -47,6 +47,6 @@ export {
   nodejs,
   reactjs, recipe, redux,
   tailwind, threejs, typescript, vegify, web, wordpress,
-  ex,lanka, satfocus, smart, university, travel, mob, link
+  ex,lanka, satfocus, smart, university, travel, mob
 };
 

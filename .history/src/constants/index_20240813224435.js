@@ -179,7 +179,7 @@ const testimonials = [
       "Shanuga is awesome. She has exceeded my expectations and delivered great work. I would recommend to use her service.",
     name: "janenalayah",
     designation: "CEO",
-    company: "JJSmart Movers",
+    company: "DEF Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
