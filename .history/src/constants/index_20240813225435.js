@@ -133,7 +133,7 @@ const experiences = [
       " Spearheaded the development of Aki an e-learning platformdesigned to enhance the educational experience for school students.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Boosted student engagement by 25% through interactive modules and multimedia content.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
@@ -143,7 +143,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "April 2023 - April 2023",
     points: [
-      "Developing and maintaining web applications using WordPress, React.js and other related technologies.",
+      "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -156,7 +156,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications & Mobile Applications using WordPress, Mern, FullStack, Flutter and other related technologies.",
+      "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
