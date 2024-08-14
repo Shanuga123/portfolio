@@ -384,7 +384,7 @@ const projects = [
   {
     name: "MetaVersus",
     description:
-      "This website focused on Metaversus, a cutting-edge platform that explores the integration of virtual reality and digital experiences in the metaverse.",
+      "website focused on Metaversus, a cutting-edge platform that explores the integration of virtual reality and digital experiences in the metaverse.",
     tags: [
       {
         name: "threejs",
