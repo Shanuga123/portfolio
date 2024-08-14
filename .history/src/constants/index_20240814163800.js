@@ -185,10 +185,10 @@ const testimonials = [
   },
   {
     testimonial:
-      "Shanuga is very hard working and more innovative person. She is very collaborative to me and has good team spirit!",
+      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Roshan",
-    designation: "C0-worker",
-    company: "XElite Software Solutions",
+    designation: "CTO",
+    company: "456 Enterprises",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
 ];

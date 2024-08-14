@@ -187,7 +187,7 @@ const testimonials = [
     testimonial:
       "Shanuga is very hard working and more innovative person. She is very collaborative to me and has good team spirit!",
     name: "Roshan",
-    designation: "C0-worker",
+    designation: "CEO",
     company: "XElite Software Solutions",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
   },
