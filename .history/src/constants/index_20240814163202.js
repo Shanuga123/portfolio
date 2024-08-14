@@ -387,7 +387,7 @@ const projects = [
       "Marudhi Online Shopping is a mobile app that offers a convenient e-commerce experience with an easy-to-use interface, secure payments, and personalized product recommendations.",
     tags: [
       {
-        name: "threejs",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {

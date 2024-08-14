@@ -44,7 +44,7 @@ export {
   docker,
   figma,
   git, github, html,
-  javascript, ajax, logo, menu, metas, mobile, mongodb,
+  javascript, ajax, logo, menu, meta, mobile, mongodb,
   nodejs,
   reactjs, recipe, redux,
   tailwind, threejs, typescript, vegify, web, wordpress,

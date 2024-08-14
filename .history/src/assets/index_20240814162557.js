@@ -37,17 +37,17 @@ import mob from "./mob.jpg";
 import ajax from "./ajax.jpeg";
 import recipe from "./recipe.jpeg";
 import vegify from "./vegify.jpeg";
-import metas from "./metas.jpeg";
+import meta from "./meta.jpeg";
 
 export {
   XE, YIT, a2z, backend, close, creator, css,
   docker,
   figma,
   git, github, html,
-  javascript, ajax, logo, menu, metas, mobile, mongodb,
+  javascript, ajax, logo, menu, meta, mobile, mongodb,
   nodejs,
   reactjs, recipe, redux,
   tailwind, threejs, typescript, vegify, web, wordpress,
-  ex,lanka, satfocus, smart, university, travel, mob, link
+  ex,lanka, satfocus, smart, university, travel, mob, link,meta
 };
 

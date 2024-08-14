@@ -9,7 +9,7 @@ import {
   html,
   javascript,
   ajax,
-  metas,
+  meta,
   mobile,
   mongodb,
   nodejs,
@@ -31,7 +31,7 @@ import {
   ex,
   mob,
   lanka,
- 
+  meta,
 } from "../assets";
 
 export const navLinks = [
@@ -378,7 +378,7 @@ const projects = [
       },
       
     ],
-    image: mob,
+    image: meta,
     source_code_link: "https://github.com/",
   },
   {
@@ -387,7 +387,7 @@ const projects = [
       "Marudhi Online Shopping is a mobile app that offers a convenient e-commerce experience with an easy-to-use interface, secure payments, and personalized product recommendations.",
     tags: [
       {
-        name: "threejs",
+        name: "nextjs",
         color: "blue-text-gradient",
       },
       {
@@ -396,7 +396,7 @@ const projects = [
       },
       
     ],
-    image: metas,
+    image: meta,
     source_code_link: "https://jazzy-biscochitos-59cb1b.netlify.app/",
   },
   
