@@ -156,7 +156,7 @@ const experiences = [
     company_name: "XElite Software Solutions",
     icon: XE,
     iconBg: "#383E56",
-    date: "Jan 2024 - Jul 2024",
+    date: "Jan 2023 - Jul 2023",
     points: [
       "Developing and maintaining web applications & Mobile Applications using WordPress, Mern, FullStack, Flutter and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
