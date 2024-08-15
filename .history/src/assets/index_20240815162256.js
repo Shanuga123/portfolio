@@ -38,7 +38,7 @@ import ajax from "./ajax.jpeg";
 import recipe from "./recipe.jpeg";
 import vegify from "./vegify.jpeg";
 import metas from "./metas.jpeg";
-import shop from "./shop.jpeg";
+import metas from "./metas.jpeg";
 export {
   XE, YIT, a2z, backend, close, creator, css,
   docker,
@@ -48,6 +48,6 @@ export {
   nodejs,
   reactjs, recipe, redux,
   tailwind, threejs, typescript, vegify, web, wordpress,
-  ex,lanka, satfocus, smart, university, travel, mob, link,shop
+  ex,lanka, satfocus, smart, university, travel, mob, link
 };
 

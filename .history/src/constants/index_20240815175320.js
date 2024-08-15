@@ -413,13 +413,10 @@ const projects = [
         name: "css",
         color: "green-text-gradient",
       },
-      {
-        name: "javascript",
-        color: "green-text-gradient",
-      },
+      
     ],
     image: shop,
-    source_code_link: "https://github.com/Shanuga123/e-commerce-website.git",
+    source_code_link: "https://jazzy-biscochitos-59cb1b.netlify.app/",
   },
   
 ];

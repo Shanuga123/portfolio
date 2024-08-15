@@ -403,23 +403,20 @@ const projects = [
   {
     name: "Online Shopping",
     description:
-      "This website is designed to offer a seamless and user-friendly experience.It features a dynamic product display and a streamlined checkout process, ensuring customers can easily browse and purchase items .",
+      "This website is designed to offer a seamless and user-friendly experience. .",
     tags: [
       {
-        name: "html",
+        name: "threejs",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "framermotion/3D",
         color: "green-text-gradient",
       },
-      {
-        name: "javascript",
-        color: "green-text-gradient",
-      },
+      
     ],
     image: shop,
-    source_code_link: "https://github.com/Shanuga123/e-commerce-website.git",
+    source_code_link: "https://jazzy-biscochitos-59cb1b.netlify.app/",
   },
   
 ];

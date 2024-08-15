@@ -156,7 +156,7 @@ const experiences = [
     company_name: "XElite Software Solutions",
     icon: XE,
     iconBg: "#383E56",
-    date: "Jan 2023 - Jul 2023",
+    date: "Jan 2022 - Jan 2023",
     points: [
       "Developing and maintaining web applications & Mobile Applications using WordPress, Mern, FullStack, Flutter and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -401,25 +401,22 @@ const projects = [
     source_code_link: "https://jazzy-biscochitos-59cb1b.netlify.app/",
   },
   {
-    name: "Online Shopping",
+    name: "MetaVersus",
     description:
-      "This website is designed to offer a seamless and user-friendly experience.It features a dynamic product display and a streamlined checkout process, ensuring customers can easily browse and purchase items .",
+      "This website focused on Metaversus, a cutting-edge platform that explores the integration of virtual reality and digital experiences in the metaverse.",
     tags: [
       {
-        name: "html",
+        name: "threejs",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "framermotion/3D",
         color: "green-text-gradient",
       },
-      {
-        name: "javascript",
-        color: "green-text-gradient",
-      },
+      
     ],
     image: shop,
-    source_code_link: "https://github.com/Shanuga123/e-commerce-website.git",
+    source_code_link: "https://jazzy-biscochitos-59cb1b.netlify.app/",
   },
   
 ];
